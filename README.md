@@ -1,5 +1,4 @@
-<img src="![image](https://github.com/user-attachments/assets/37bcf257-c288-4b07-bb3e-2f071b64a31b)
-" alt="A description of the image" width="500" height="300">
+![Banner](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
 
 # About Me:
 I am a developer exploring the Data Analytics Concepts. Passionate about data and learning new technologies.
