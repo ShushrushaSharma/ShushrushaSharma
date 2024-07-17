@@ -1,5 +1,5 @@
 
-![ash-emritte-pcscreen6](https://github.com/user-attachments/assets/2d70935d-13e0-4256-bd62-9b80f71037ce)
+![e36ec678-7984-4cdd-8e4c-a3932772ff8e](https://github.com/user-attachments/assets/d667e108-fd5d-468d-b707-3827f6344f5c)
 
 # About Me:
 I am a developer exploring the Data Analytics Concepts. Passionate about data and learning new technologies.
