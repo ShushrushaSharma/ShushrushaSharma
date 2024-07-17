@@ -1,4 +1,5 @@
-![Banner](https://user-images.githubusercontent.com/106918656/209438619-25091cdf-a126-4e95-a24c-5efdf8057606.gif)
+
+![image_processing20210301-3601-w1fbuc](https://github.com/user-attachments/assets/48d1aa15-bbab-4baa-8ca4-07a9a738708f)
 
 # About Me:
 I am a developer exploring the Data Analytics Concepts. Passionate about data and learning new technologies.
